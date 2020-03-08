@@ -1,2 +1,22 @@
-# writgo
-Writing More Elegantly on Typora.
+# Writgo - 类纸的Typora主题
+
+> ​	Typora是一款非常直观易用的实时预览的 Markdown 文本编辑器Markdown编辑器，它有 OS X、Windows、Linux 三个平台的版本，并且由于仍在测试中，是**完全免费**的。
+### 前言
+​	我做这款主题主要是因为我找了好久都没找到一款适合类纸的Typora主题。大部分类纸的Typora主题使用的都是衬线字体，倒不是说衬线不好，只是衬线体对屏幕和渲染引擎的要求实在是太高了。我目前在家里使用的是飞利浦的4K屏幕，但是在学校以及我的XPS15使用的都是1080的屏幕，在这种屏幕下衬线字体那瘦小的身板简直糊成一片。
+
+### 主题特性
+
+​	Writgo这个名字是取Write和go这两个单词组成的，寓意着“现在就去写作”，~~同时也与我的ID强行呼应~~。
+
+​	主题基于Typora原生主题GitHub创作，同时加入了许多我现在博客主题Mirages的许多特点，使得我在Typora写的文章可以非常优雅且轻易的搬到博客上来。如果你的博客是用Typecho搭建，那么这个主题的许多特性例如表格、引用块都会做到十分类似。
+
+### 安装说明
+
+- 当然是先从GitHub下载压缩包然后解压啊喂。
+- 将<code>writgo.css</code>和<code>writgo</code>文件夹复制到你的Typora\themes目录下。
+- 启动或重新启动Typora，然后从主题选项中选择writgo。
+
+
+
+
+
